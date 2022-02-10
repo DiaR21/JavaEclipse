@@ -1,0 +1,17 @@
+package metodo;
+
+public class Metodos {
+	//medoto de una funcion
+	//atributo de la clase
+	int a,b;
+	//metodo void (Vacio)
+	public void sumar(){
+		int resultado=a+b;
+		System.out.println("El resultado de sumar "+a+"+"+b+" es "+resultado);
+	}
+	
+	//
+	
+	
+	
+}

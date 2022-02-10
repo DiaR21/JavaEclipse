@@ -1,0 +1,11 @@
+package metodo;
+
+public class PruebaMetodo {
+	public static void main(String[] args) {
+		Metodos metodoPrueba=new Metodos();
+		metodoPrueba.a=10;
+		metodoPrueba.b=26;
+		metodoPrueba.sumar();
+	}
+
+}

@@ -1,0 +1,8 @@
+2022-02-01 10:25:18,283 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-02 11:11:33,706 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-02-02 11:20:14,022 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-02 11:30:37,900 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-02 17:09:29,843 [Worker-29: Fetching remote refs from git@github.com:DiaR21/JavaH8.git] INFO  o.a.s.c.u.s.e.EdDSASecurityProviderRegistrar - getOrCreateProvider(EdDSA) created instance of net.i2p.crypto.eddsa.EdDSASecurityProvider
+2022-02-02 17:09:30,577 [Worker-29: Fetching remote refs from git@github.com:DiaR21/JavaH8.git] INFO  o.a.s.c.i.DefaultIoServiceFactoryFactory - No detected/configured IoServiceFactoryFactory using Nio2ServiceFactoryFactory
+2022-02-09 15:09:51,359 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-02-09 19:29:08,533 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
