@@ -1,0 +1,8 @@
+package com.generation.animales;
+
+public class Mascotas {
+	void jugar();
+	void correr();
+	void vaniar();
+
+}
